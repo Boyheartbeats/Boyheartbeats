@@ -8,7 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/Boyheartbeats/vulnerability-management-program)**
 
 
-##🚨 Threat Hunting and Security Operations
+🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage](https://github.com/Boyheartbeats/threat-hunting-scenario-tor)**
 
