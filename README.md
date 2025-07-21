@@ -14,6 +14,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 
+## Crypto Threat Hunt
+- **[Threat Hunting Scenario (Crypto Mining)](https://github.com/Boyheartbeats/Crypto-Hunt/tree/main)**
+
+
 <hr/>
 
 ## 🤳 Connect With Me
