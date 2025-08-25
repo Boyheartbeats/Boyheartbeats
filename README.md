@@ -17,6 +17,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## Crypto Threat Hunt
 - **[Threat Hunting Scenario (Crypto Mining)](https://github.com/Boyheartbeats/Crypto-Hunt/tree/main)**
 
+## Firefox Threat Hunt Report
+- **[Threat Hunting Scenario (Improper Firefox Usage)](https://github.com/Boyheartbeats/Threat-Hunting-Firefox/blob/main/README.md)**
+
+
 
 <hr/>
 
