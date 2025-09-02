@@ -20,6 +20,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## Firefox Threat Hunt Report
 - **[Threat Hunting Scenario (Improper Firefox Usage)](https://github.com/Boyheartbeats/Threat-Hunting-Firefox/blob/main/README.md)**
 
+ ## Unauthorized 7-Zip Threat Hunt Report
+- **[Threat Hunting Scenario (Improper Firefox Usage)](https://github.com/Boyheartbeats/Unauthorized-7-Zip)**
+
 
 
 <hr/>
