@@ -12,9 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Boyheartbeats/threat-hunting-scenario-tor)**
 
-
-
-## Crypto Threat Hunt
+## Live Crypto Threat Hunt
 - **[Threat Hunting Scenario (Crypto Mining)](https://github.com/Boyheartbeats/Crypto-Hunt/tree/main)**
 
 ## Firefox Threat Hunt Report
